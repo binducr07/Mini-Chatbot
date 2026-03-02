@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import PyPDF2
+import PyPDf2
 
 app = Flask(__name__)
 
